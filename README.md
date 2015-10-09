@@ -1,0 +1,1 @@
+# openmrs-contrib-summit-assets
